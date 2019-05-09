@@ -54,6 +54,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -81,6 +84,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -181,12 +185,12 @@
       <workItem from="1557198199541" duration="11697000" />
       <workItem from="1557278166089" duration="24799000" />
       <workItem from="1557371631832" duration="526000" />
-      <workItem from="1557372484001" duration="4545000" />
+      <workItem from="1557372484001" duration="4791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41567000" />
+    <option name="totallyTimeSpent" value="41813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -211,9 +215,9 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.74537694" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32859176" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32905984" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
